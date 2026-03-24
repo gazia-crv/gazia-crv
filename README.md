@@ -21,6 +21,7 @@ With a BSc in Computer Science & Electronics Engineering and over 10 years of ha
 
 Currently working as an **Analyst Programmer at CRV New Zealand**, where I design and develop web and mobile applications, perform system and business analysis, and manage end-to-end deployments. I'm also an active freelancer through **Azmara Technologies**, building websites and digital solutions for clients.
 
+- 🎓 Currently pursuing a **Master of Information Technology (Cyber Security)**.
 - 🌱 Passionate about developing applications that solve real-world problems and make a difference.
 - 🔭 Always exploring new technologies — currently deep in React, Next.js, C#/.NET, and cloud-native development.
 - 🛡️ Security enthusiast — ISC2 candidate with a strong interest in application security and process automation.
