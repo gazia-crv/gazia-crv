@@ -7,6 +7,9 @@
   <a href="mailto:alshafaraz.gazi@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://github.com/coderchef26" target="_blank">
+    <img src="https://img.shields.io/badge/Personal-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
