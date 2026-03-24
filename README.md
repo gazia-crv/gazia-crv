@@ -72,9 +72,9 @@ Currently working as an **Analyst Programmer at CRV New Zealand**, where I desig
 ### :snake: Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gazia-crv/al-ghazi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gazia-crv/al-ghazi/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/gazia-crv/al-ghazi/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gazia-crv/gazia-crv/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gazia-crv/gazia-crv/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/gazia-crv/gazia-crv/output/github-snake.svg" />
 </picture>
 
 </br>
