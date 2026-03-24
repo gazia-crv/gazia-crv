@@ -1,10 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
-</div>
-
-<h1 align="center">
-  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Alshafaraz Hussain Gazi
-</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0077b6&height=200&section=header&text=Alshafaraz%20Hussain%20Gazi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Analyst%20Programmer%20%C2%B7%20Security%20Enthusiast&descAlignY=58&descSize=16)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gazi-ah/" target="_blank">
@@ -15,6 +9,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+10%2B+years+experience;React+%7C+Next.js+%7C+C%23+%7C+.NET+%7C+TypeScript;Business+Analysis+%7C+System+Design;Based+in+Hamilton%2C+New+Zealand+%F0%9F%87%B3%F0%9F%87%BF" alt="Typing SVG" />
+</p>
+
 ---
 
 ### :man_technologist: About Me
@@ -23,7 +21,7 @@ With a BSc in Computer Science & Electronics Engineering and over 10 years of ha
 
 Currently working as an **Analyst Programmer at CRV New Zealand**, where I design and develop web and mobile applications, perform system and business analysis, and manage end-to-end deployments. I'm also an active freelancer through **Azmara Technologies**, building websites and digital solutions for clients.
 
-- 🌱 I'm passionate about developing applications that solve real-world problems and make a difference.
+- 🌱 Passionate about developing applications that solve real-world problems and make a difference.
 - 🔭 Always exploring new technologies — currently deep in React, Next.js, C#/.NET, and cloud-native development.
 - 🛡️ Security enthusiast — ISC2 candidate with a strong interest in application security and process automation.
 - 📍 Based in Hamilton, Waikato, New Zealand.
@@ -71,7 +69,19 @@ Currently working as an **Analyst Programmer at CRV New Zealand**, where I desig
 
 </br>
 
+### :snake: Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gazia-crv/al-ghazi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gazia-crv/al-ghazi/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/gazia-crv/al-ghazi/output/github-snake.svg" />
+</picture>
+
+</br>
+
 ### :mailbox: How to reach me
 
 LinkedIn : [Alshafaraz Hussain Gazi](https://www.linkedin.com/in/gazi-ah/) </br>
 Email : alshafaraz.gazi@gmail.com
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,100:00b4d8&height=120&section=footer)
